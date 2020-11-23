@@ -1,0 +1,18 @@
+#wrapper {
+    display: flex;
+}
+
+.box {
+    margin: 5px;
+    padding: 10px;
+    background-color: #c1c1c1;
+    flex:1;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box h2{
+    text-align: center;
+}
